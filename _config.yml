@@ -1,0 +1,28 @@
+name: Science communication
+favicon: null
+layout_spectrum: 0.7295479702297598
+typography_spectrum: 0.8475626762956381
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.4743036355357617
+  lightness: 0.9181335147004575
+  saturation: 0.9634479186497629
+  rhythmicContrast: 0.19404172990471125
+purpose: []
