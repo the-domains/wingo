@@ -1,23 +1,26 @@
 ---
-author: []
-related: []
-publisher:
-  url: 'https://thegrid.ai'
-  name: Thegrid
-  favicon: null
-  domain: thegrid.ai
-keywords: []
-description: ''
-app_links: []
-isBasedOnUrl: 'https://thegrid.ai/scicom/434f2b1b-ff71-4323-8bac-fdd8d49184f7/'
-title: Captivating and entertaining Science
-datePublished: '2016-02-02T08:32:30.802Z'
-dateModified: '2016-02-02T08:31:10.591Z'
-sourcePath: _posts/2016-02-02-captivating-and-entertaining-science.md
-published: true
 inFeed: true
 hasPage: false
 inNav: false
+isBasedOnUrl: 'https://thegrid.ai/scicom/434f2b1b-ff71-4323-8bac-fdd8d49184f7/'
+inLanguage: null
+starred: true
+keywords: []
+description: ''
+datePublished: '2016-02-10T17:45:34.824Z'
+dateModified: '2016-02-10T17:42:45.994Z'
+author: []
+related: []
+app_links: []
+title: Captivating and entertaining Science
+sourcePath: _posts/2016-02-02-captivating-and-entertaining-science.md
+published: true
+authors: []
+publisher:
+  name: Thegrid
+  domain: thegrid.ai
+  url: 'https://thegrid.ai'
+  favicon: null
 _context: 'http://schema.org'
 _type: MediaObject
 
