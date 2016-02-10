@@ -6,23 +6,23 @@ inLanguage: null
 starred: true
 keywords: []
 description: ''
-datePublished: '2016-02-10T18:39:13.546Z'
-dateModified: '2016-02-10T18:39:10.258Z'
-title: Captivating and Entertaining
+datePublished: '2016-02-10T18:51:10.177Z'
+dateModified: '2016-02-10T18:50:58.297Z'
+title: About me
 author: []
+sourcePath: _posts/2016-02-10-captivating-and-entertaining.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-02-10-captivating-and-entertaining.md
-published: true
 url: captivating-and-entertaining/index.html
 _type: Article
 
 ---
-# Captivating and Entertaining
+# About me
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/63adf50c-34a2-4d69-8d0a-036dcbef2c1f.jpg)
 
 My name is Oskari Vinko and I can help you capture attention, deliver a convincing message and give an impression that you master your topic. I have worked my way from stage fright and shyness to an internationally renown science communicator. I won world's largest science communication competition, FameLab, in 2015 and I've been invited to speak in several European countries.
